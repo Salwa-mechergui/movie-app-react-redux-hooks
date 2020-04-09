@@ -1,0 +1,14 @@
+.container-years-type{
+    display: flex;
+    justify-content: space-between;
+}
+.container-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 4%;
+}
+.container-card{
+    width: 26%;
+    margin-bottom: 2%;
+}

@@ -1,0 +1,11 @@
+.container-input{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 500px;
+    justify-content: space-around;
+}
+.container-btn-saveMovie{
+    display: flex;
+    justify-content: center;
+}
